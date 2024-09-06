@@ -1,0 +1,15 @@
+C:\Users\elias\RiderProjects\HelloDecorator\HelloDecorator\bin\Debug\net8.0\HelloDecorator.exe
+C:\Users\elias\RiderProjects\HelloDecorator\HelloDecorator\bin\Debug\net8.0\HelloDecorator.deps.json
+C:\Users\elias\RiderProjects\HelloDecorator\HelloDecorator\bin\Debug\net8.0\HelloDecorator.runtimeconfig.json
+C:\Users\elias\RiderProjects\HelloDecorator\HelloDecorator\bin\Debug\net8.0\HelloDecorator.dll
+C:\Users\elias\RiderProjects\HelloDecorator\HelloDecorator\bin\Debug\net8.0\HelloDecorator.pdb
+C:\Users\elias\RiderProjects\HelloDecorator\HelloDecorator\obj\Debug\net8.0\HelloDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\RiderProjects\HelloDecorator\HelloDecorator\obj\Debug\net8.0\HelloDecorator.AssemblyInfoInputs.cache
+C:\Users\elias\RiderProjects\HelloDecorator\HelloDecorator\obj\Debug\net8.0\HelloDecorator.AssemblyInfo.cs
+C:\Users\elias\RiderProjects\HelloDecorator\HelloDecorator\obj\Debug\net8.0\HelloDecorator.csproj.CoreCompileInputs.cache
+C:\Users\elias\RiderProjects\HelloDecorator\HelloDecorator\obj\Debug\net8.0\HelloDecorator.sourcelink.json
+C:\Users\elias\RiderProjects\HelloDecorator\HelloDecorator\obj\Debug\net8.0\HelloDecorator.dll
+C:\Users\elias\RiderProjects\HelloDecorator\HelloDecorator\obj\Debug\net8.0\refint\HelloDecorator.dll
+C:\Users\elias\RiderProjects\HelloDecorator\HelloDecorator\obj\Debug\net8.0\HelloDecorator.pdb
+C:\Users\elias\RiderProjects\HelloDecorator\HelloDecorator\obj\Debug\net8.0\HelloDecorator.genruntimeconfig.cache
+C:\Users\elias\RiderProjects\HelloDecorator\HelloDecorator\obj\Debug\net8.0\ref\HelloDecorator.dll
